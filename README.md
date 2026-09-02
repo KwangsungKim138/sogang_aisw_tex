@@ -53,9 +53,7 @@ pdflatex template
 
 ## 학위논문작성지침
 
-서식은 **AI·SW대학원 공지사항(2025년 5월 19일)**의 학위논문작성지침을 기준으로 합니다.
-
-- 공지: https://gsinfo.sogang.ac.kr/front/cmsboardview.do?pkid=922318&bbsConfigFK=386&siteId=gsinfo
+서식은 AI·SW대학원 공지사항(2025년 5월 19일)의 [학위논문작성지침](https://gsinfo.sogang.ac.kr/front/cmsboardview.do?pkid=922318&bbsConfigFK=386&siteId=gsinfo)을 기준으로 합니다.
 
 ## 그림 (figure)
 
