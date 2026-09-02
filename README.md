@@ -4,6 +4,8 @@
 `template.tex`는 **작성 가이드이자 템플릿**이므로, 먼저 읽어 보신 뒤
 논문 작성용으로 편집하여 사용하시기 바랍니다.
 
+※ 서식·사용법·문서에서 오류를 발견하신 분은 [GitHub Issue를 작성](https://github.com/KwangsungKim138/sogang_aisw_tex/issues/new/choose)해 주세요.
+
 ## 파일 구성
 
 | 파일 | 설명 |
@@ -59,3 +61,7 @@ pdflatex template
 
 PNG/JPEG 등은 확대 시 깨질 수 있으므로 PDF 등 벡터 이미지 입력을 권장합니다.
 `template.tex` 제5장을 참고하시기 바랍니다.
+
+---
+
+※ 서식·사용법·문서에서 오류를 발견하신 분은 [GitHub Issue를 작성](https://github.com/KwangsungKim138/sogang_aisw_tex/issues/new/choose)해 주세요.
